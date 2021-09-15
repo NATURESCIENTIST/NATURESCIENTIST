@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NATURESCIENTIST
-- 👀 I’m interested in front end development
+- 👀 I’m interested in front end development, photography
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on front end web development
 - 📫 How to reach me arun00ms00@gmail.com
